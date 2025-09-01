@@ -85,3 +85,6 @@ async function syncLoop(devices) {
 3: now click save as and on the same type something like `syncbutdual.js`
 
 4: go in termainl and run this `node syncbutdual.js` (replace syncbutdual.js with the path to the js 
+
+Bounus ig:this was based of https://github.com/jrudio/smart-light-disco/tree/master code probs to them ig
+I use KL135 dk if it will work for others kasa lights
