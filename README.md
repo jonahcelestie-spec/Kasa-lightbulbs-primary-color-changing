@@ -13,7 +13,7 @@ const screenshot = require('screenshot-desktop');
 const getColors = require('get-image-colors');
 
 const client = new Client();
-const bulbIPs = ['192.168.0.166', '192.168.0.93'];
+const bulbIPs = ['192.168.0.xxx', '192.168.0.xxx']; (your kasa ip you can use double or just use one)
 
 function rgbToHSB([r, g, b]) {
   r /= 255; g /= 255; b /= 255;
